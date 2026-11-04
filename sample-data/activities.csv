@@ -1,0 +1,3 @@
+platform,username,resource,event_type,occurred_at,source
+GitHub,kamal,github:team-repo,resource_use,2026-11-04T12:00:00Z,verified-demo-export
+Linux,nisha,dev:production-db,login,2026-11-04T10:00:00Z,ssh-auth-log

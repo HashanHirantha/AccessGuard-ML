@@ -1,0 +1,4 @@
+platform,username,resource,permission,sensitivity,source,active,last_used_at,evidence_source
+Linux,nisha,dev:production-db,admin,critical,test-export,true,2026-07-20T10:00:00Z,verified-db-audit
+GitHub,kamal,github:team-repo,write,medium,test-export,true,2026-11-01T08:00:00Z,verified-repo-audit
+Windows AD,retired-temp,windows:domain-admins,admin,critical,test-export,true,,

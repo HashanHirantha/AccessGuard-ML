@@ -1,0 +1,3 @@
+code,name,email,department,job_title,status,manager_username
+EMP-2042,Nisha Perera,nisha@example.test,Finance,Finance Analyst,active,reviewer
+EMP-2043,Kamal Silva,kamal@example.test,Engineering,DevOps Engineer,active,reviewer

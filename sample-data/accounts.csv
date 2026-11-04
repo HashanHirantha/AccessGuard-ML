@@ -1,0 +1,4 @@
+platform,username,employee_code,status,last_login,last_login_source
+Linux,nisha,EMP-2042,active,2026-07-25T12:00:00Z,test-export
+GitHub,kamal,EMP-2043,active,2026-11-01T08:00:00Z,test-export
+Windows AD,retired-temp,,active,2026-06-01T07:00:00Z,test-export
